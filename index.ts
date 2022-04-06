@@ -2,4 +2,4 @@ const output = (text:string):string => {
     return text
     
 };
-console.log(output('helloo'));
+console.log(output('hello'));
